@@ -19,7 +19,7 @@ Map<String, String> stringMap=new HashMap<String, String>();
 		
 		Iterator<String>  stringKeyIterator=stringMap.keySet().iterator();
 		while(stringIterator.hasNext() ){ 
-			System.out.println("String Value:"+stringIterator.next());
+			System.out.println("String Value:"+stringKeyIterator.next());
 		}
 	}
 
