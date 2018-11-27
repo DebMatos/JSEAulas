@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543340815692_1" label="f" name="f">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RemoteSystemsTempFiles" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/StateMachine" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/experiencias" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543340723365_0" label="Window Working Set" name="Aggregate for window 1543340723364"/>
+<mruList name="f"/>
+</workingSetManager>
